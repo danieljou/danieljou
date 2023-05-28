@@ -8,7 +8,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mbia1378" alt="mbia1378" /></a> </p>
 
-<p align="left"> <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/mbia_cyrille?logo=twitter&style=for-the-badge" alt="mbia_cyrille" /></a> </p>
 
 - 🔭 I’m currently working on [Django](https://www.djangoproject.com/)
 - 🌱 I’m currently learning **Flutter, How It's Works**
