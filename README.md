@@ -1,4 +1,4 @@
-# Daniel TIOMELA JOU
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -8,28 +8,26 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mbia1378" alt="mbia1378" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mbia_cyrille" target="blank"><img src="https://img.shields.io/twitter/follow/mbia_cyrille?logo=twitter&style=for-the-badge" alt="mbia_cyrille" /></a> </p>
+<p align="left"> <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/mbia_cyrille?logo=twitter&style=for-the-badge" alt="mbia_cyrille" /></a> </p>
 
-- 🔭 I’m currently working on [Laravel](https://github.com/laravel/laravel)
-
+- 🔭 I’m currently working on [Django](https://www.djangoproject.com/)
 - 🌱 I’m currently learning **Flutter, How It's Works**
 
 - 👨‍💻 All of my open projects are available at [https://github.com/mbia1378](https://github.com)
 
-- 📝 I regularly write articles on [https://itdreamtech.com](https://itdreamtech.com)
 
-- 💬 Ask me about **Laravel, Java Android studio, WordPress etc...**
+- 💬 Ask me about **Django, Java Android studio,fluter, React Js, Node Js, MERN DTACK, WordPress etc...**
 
-- 📫 How to reach me **cyrille@itdreamtech.com**
+- 📫 How to reach me ****
 
 - ⚡ I love **Code, Okok, Musics, Movies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mbia_cyrille" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mbia_cyrille" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/cyrille-mbia-453b80142/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aveybd" height="30" width="40" /></a>
-<a href="https://www.facebook.com/cyrille.mbia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mbia cyrille" height="30" width="40" /></a>
-<a href="https://instagram.com/mbia1378" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mbia cyrille" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mbia_cyrille" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aveybd" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mbia cyrille" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mbia cyrille" height="30" width="40" /></a>
 </p>
 
 
@@ -49,21 +47,4 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Cisco)
-
-### Full Stack Projects
-
-[![COVID-19 Dashboard](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000?)](https://github.com/adamalston/COVID-19-Dashboard)
-
-### Cybersecurity Projects
-
-[![Packet Sniffing & Spoofing](https://img.shields.io/badge/-🗂%20Packet%20Sniffing%20%26%20Spoofing-000?)](https://github.com/adamalston/Packet-Sniffing-and-Spoofing)
-[![SQL Injection](https://img.shields.io/badge/-💉%20SQL%20Injection-000?)](https://github.com/adamalston/SQL-Injection)
-[![Network Tools](https://img.shields.io/badge/-🌐%20Network%20Tools-000?)](https://github.com/adamalston/Network-Tools)
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mbia1378&show_icons=true&locale=en&layout=compact" alt="mbia1378" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mbia1378&show_icons=true&locale=en" alt="mbia1378" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aveybd&" alt="mbia1378" /></p>
+![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Cisco)herokuapp.com/?user=aveybd&" alt="mbia1378" /></p>
