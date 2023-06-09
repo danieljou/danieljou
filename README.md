@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on [Django](https://www.djangoproject.com/)
 - 🌱 I’m currently learning **Flutter, How It's Works**
 
-- 👨‍💻 All of my open projects are available at [https://github.com/mbia1378](https://github.com)
+- 👨‍💻 All of my open projects are available at [https://github.com/danieljou](https://github.com)
 
 
 - 💬 Ask me about **Django, Java Android studio,fluter, React Js, Node Js, MERN DTACK, WordPress etc...**
