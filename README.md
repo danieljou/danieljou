@@ -46,4 +46,3 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Cisco)herokuapp.com/?user=aveybd&" alt="mbia1378" /></p>
