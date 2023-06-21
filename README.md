@@ -11,10 +11,6 @@
 
 ![Daniel TIOMELA JOU's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieljou&show_icons=true&theme=radical)
 
-## Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieljou&layout=compact&theme=radical)
-
 - 🔭 I’m currently working on [Django](https://www.djangoproject.com/)
 - 🌱 I’m currently learning **Flutter, How It's Works**
 
@@ -51,3 +47,9 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+
+## GitHub Activities
+
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/danieljou/project-a/pull/1) in [danieljou/project-a](https://github.com/danieljou/project-a)
+2. ❗️ Closed issue [#2](https://github.com/danieljou/project-b/issues/2) in [danielTo add more information to your GitHub statistics, you can include a section on your recent GitHub activity. You can use GitHub's API to fetch your recent activity and display it on your profile. Here's an example of how you can do this:
