@@ -16,6 +16,8 @@
 ## GitHub Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danieljou&show_icons=true&theme=dark)
 
+## Additional Stats
+![Additional Stats](https://github-readme-stats.vercel.app/api/wakatime?username=danieljou)
 
 ## Top Languages
 
