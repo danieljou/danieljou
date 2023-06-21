@@ -11,6 +11,15 @@
 
 ![Daniel TIOMELA JOU's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieljou&show_icons=true&theme=radical)
 
+
+
+## GitHub Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danieljou&show_icons=true&theme=dark)
+
+## GitHub Stats with Themes
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danieljou&show_icons=true&theme=dark)
+
+
 ## Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieljou&layout=compact&theme=radical)
@@ -60,11 +69,3 @@
 ![Code Size](https://img.shields.io/github/languages/code-size/danieljou/repository-name?label=Code%20Size)
 ![Test Coverage](https://img.shields.io/codecov/c/github/danieljou/repository-name?label=Test%20Coverage)
 
-## Profile stats
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=danieljou)
-
-## GitHub Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danieljou)
-
-## GitHub Stats with Themes
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danieljou&show_icons=true&theme=dark)
