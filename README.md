@@ -16,9 +16,6 @@
 ## GitHub Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danieljou&show_icons=true&theme=dark)
 
-## GitHub Stats with Themes
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danieljou&show_icons=true&theme=dark)
-
 
 ## Top Languages
 
