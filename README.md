@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -6,14 +5,20 @@
 <h1 align="center">Hi 👋, I'm Daniel TIOMELA JOU</h1>
 <h3 align="center">A code lover from Yaounde - Cameroon</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mbia1378" alt="mbia1378" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danieljou" alt="danieljou" /></a> </p>
 
+## GitHub Stats
+
+![Daniel TIOMELA JOU's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieljou&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieljou&layout=compact&theme=radical)
 
 - 🔭 I’m currently working on [Django](https://www.djangoproject.com/)
 - 🌱 I’m currently learning **Flutter, How It's Works**
 
 - 👨‍💻 All of my open projects are available at [https://github.com/danieljou](https://github.com)
-
 
 - 💬 Ask me about **Django, Java Android studio,fluter, React Js, Node Js, MERN DTACK, WordPress etc...**
 
@@ -32,10 +37,10 @@
 
 ### Languages
 
-[![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/adamalston?tab=repositories&q=&type=&language=javascript)
-[![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c)
-[![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://github.com/adamalston?tab=repositories&q=&type=&language=java)
+[![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/danieljou?tab=repositories&q=&type=&language=python)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/danieljou?tab=repositories&q=&type=&language=javascript)
+[![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/danieljou?tab=repositories&q=&type=&language=c)
+[![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://github.com/danieljou?tab=repositories&q=&type=&language=java)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 
