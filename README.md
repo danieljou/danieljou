@@ -60,20 +60,11 @@
 ![Code Size](https://img.shields.io/github/languages/code-size/danieljou/repository-name?label=Code%20Size)
 ![Test Coverage](https://img.shields.io/codecov/c/github/danieljou/repository-name?label=Test%20Coverage)
 
+## Profile stats
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=danieljou)
 
-# Repository Statistics
+## GitHub Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danieljou)
 
-![Stars](https://img.shields.io/github/stars/danieljou/repository-name?label=Stars)
-![Forks](https://img.shields.io/github/forks/danieljou/repository-name?label=Forks)
-![Watchers](https://img.shields.io/github/watchers/danieljou/repository-name?label=Watchers)
-![License](https://img.shields.io/github/license/danieljou/repository-name?label=License)
-
-## Build and CI Statistics
-
-![Build Status](https://img.shields.io/github/workflow/status/danieljou/repository-name/Build%20and%20CI?label=Build%20Status)
-![Last Commit](https://img.shields.io/github/last-commit/danieljou/repository-name?label=Last%20Commit)
-
-## Package Manager Statistics
-
-![Downloads](https://img.shields.io/pypi/dm/package-name?label=Downloads&logo=pypi)
-![Version](https://img.shields.io/pypi/v/package-name?label=Version&logo=pypi)
+## GitHub Stats with Themes
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danieljou&show_icons=true&theme=dark)
