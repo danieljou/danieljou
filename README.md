@@ -51,3 +51,29 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+
+
+## Statistics
+
+![Commits](https://img.shields.io/github/commit-activity/w/danieljou/repository-name?label=Commits)
+![Issues](https://img.shields.io/github/issues/danieljou/repository-name?label=Issues)
+![Code Size](https://img.shields.io/github/languages/code-size/danieljou/repository-name?label=Code%20Size)
+![Test Coverage](https://img.shields.io/codecov/c/github/danieljou/repository-name?label=Test%20Coverage)
+
+
+# Repository Statistics
+
+![Stars](https://img.shields.io/github/stars/danieljou/repository-name?label=Stars)
+![Forks](https://img.shields.io/github/forks/danieljou/repository-name?label=Forks)
+![Watchers](https://img.shields.io/github/watchers/danieljou/repository-name?label=Watchers)
+![License](https://img.shields.io/github/license/danieljou/repository-name?label=License)
+
+## Build and CI Statistics
+
+![Build Status](https://img.shields.io/github/workflow/status/danieljou/repository-name/Build%20and%20CI?label=Build%20Status)
+![Last Commit](https://img.shields.io/github/last-commit/danieljou/repository-name?label=Last%20Commit)
+
+## Package Manager Statistics
+
+![Downloads](https://img.shields.io/pypi/dm/package-name?label=Downloads&logo=pypi)
+![Version](https://img.shields.io/pypi/v/package-name?label=Version&logo=pypi)
