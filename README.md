@@ -21,7 +21,7 @@
 
 ## Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieljou&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieljou&layout=compact&theme=gruvbox&langs_count=30)
 
 
 <h3 align="left">Languages and Tools:</h3>
