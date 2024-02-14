@@ -25,7 +25,7 @@
 
 ## Top Languages
 
-![Top Langs]![danieljou's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danieljou&theme=tokyonight&show_icons=true&hide_border=true&layout=donut&langs_count=30)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieljou&theme=tokyonight&show_icons=true&hide_border=true&layout=donut&langs_count=30)
 
 
 <h3 align="left">Languages and Tools:</h3>
