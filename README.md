@@ -9,9 +9,12 @@
 
 ## GitHub Stats
 
+![danieljou's Streak](https://github-readme-streak-stats.herokuapp.com/?user=danieljou&theme=tokyonight&hide_border=true)
+
+
+![danieljou's Stats](https://github-readme-stats.vercel.app/api?username=danieljou&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
 ![Daniel TIOMELA JOU's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieljou&show_icons=true&theme=radical)
-
-
 
 ## GitHub Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danieljou&show_icons=true&theme=dark)
