@@ -74,8 +74,8 @@
 
 ## Statistics
 
-![Commits](https://img.shields.io/github/commit-activity/w/danieljou/repository-name?label=Commits)
-![Issues](https://img.shields.io/github/issues/danieljou/repository-name?label=Issues)
+![Commits](https://img.shields.io/github/commit-activity/w/danieljou/Minhdu?label=Commits)
+![Issues](https://img.shields.io/github/issues/danieljou/EasyFood?label=Issues)
 ![Code Size](https://img.shields.io/github/languages/code-size/danieljou/repository-name?label=Code%20Size)
 ![Test Coverage](https://img.shields.io/codecov/c/github/danieljou/repository-name?label=Test%20Coverage)
 
