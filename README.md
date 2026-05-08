@@ -165,3 +165,92 @@ class Developer:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0a2240,100:0d1220&height=80&section=footer" width="100%"/>
 
 </div>
+
+
+
+## 📜 Certifications & formations
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Scrum_Fundamental_Certified-00d4ff?style=for-the-badge&logo=scrumalliance&logoColor=black"/>
+      <br/>
+      <strong>Scrum Fundamentals Certified (SFCTM)</strong>
+      <br/>
+      Scrum Study Enablements • sept. 2025
+      <br/>
+      <img src="https://img.shields.io/badge/Agile-0d1220?style=flat-square&logo=scrumalliance"/>
+      <img src="https://img.shields.io/badge/Scrum-0d1220?style=flat-square"/>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Software_Architecture-00d4ff?style=for-the-badge&logo=udemy&logoColor=black"/>
+      <br/>
+      <strong>Software Architecture & Code Design in OOP</strong>
+      <br/>
+      Udemy • juin 2025
+      <br/>
+      <img src="https://img.shields.io/badge/OOP-0d1220?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Cloud-0d1220?style=flat-square"/>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Master_Django-00d4ff?style=for-the-badge&logo=django&logoColor=black"/>
+      <br/>
+      <strong>Master Django Web Development</strong>
+      <br/>
+      Alison • févr. 2025
+      <br/>
+      <img src="https://img.shields.io/badge/Python-0d1220?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Django-0d1220?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/React_for_Devs-00d4ff?style=for-the-badge&logo=react&logoColor=black"/>
+      <br/>
+      <strong>Intro to JavaScript for React Developers</strong>
+      <br/>
+      CodeSignal • févr. 2025
+      <br/>
+      <img src="https://img.shields.io/badge/JavaScript-0d1220?style=flat-square"/>
+      <img src="https://img.shields.io/badge/React.js-0d1220?style=flat-square"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Node.js_API_RESTful-00d4ff?style=for-the-badge&logo=nodedotjs&logoColor=black"/>
+      <br/>
+      <strong>Node.js : Fondamentaux d'API RESTful modernes (2025)</strong>
+      <br/>
+      Udemy • avr. 2025
+      <br/>
+      <img src="https://img.shields.io/badge/Node.js-0d1220?style=flat-square"/>
+      <img src="https://img.shields.io/badge/JavaScript-0d1220?style=flat-square"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Voir_toutes_mes_certs-0d1220?style=for-the-badge&logo=linkedin&logoColor=00d4ff"/>
+      <br/>
+      <a href="https://www.linkedin.com/in/daniel-tiomela-jou-40250b279/details/certifications/">
+        🔗 Toutes mes certifications LinkedIn
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
+## ✍️ Blog / Articles récents
+
+<table>
+  <tr>
+    <td width="70%">
+      <ul>
+        <li><a href="#">📘 <strong>Optimiser une API Django avec Redis</strong></a> – 5 min de lecture</li>
+        <li><a href="#">⚛️ <strong>Flutter vs React Native en 2025</strong></a> – Comparatif technique</li>
+        <li><a href="#">🐳 <strong>Dockeriser une app full-stack en 10min</strong></a> – Tutoriel</li>
+      </ul>
+    </td>
+    <td align="center" width="30%">
+      <img src="https://img.shields.io/badge/Medium-0d1220?style=for-the-badge&logo=medium&logoColor=00d4ff"/>
+      <br/>
+      <img src="https://img.shields.io/badge/Dev.to-0d1220?style=for-the-badge&logo=devdotto&logoColor=00d4ff"/>
+    </td>
+  </tr>
+</table>
