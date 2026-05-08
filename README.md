@@ -9,136 +9,146 @@
 ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚══════╝╚══════╝
 ```
 
-# 👨‍💻 Daniel TIOMELA JOU
+<div align="center">
 
-**`Full-Stack Developer · Mobile Craftsman · Code Enthusiast`**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=700&height=60&lines=Daniel+TIOMELA+JOU;Full-Stack+%26+Mobile+Developer;Django+%7C+React+%7C+Flutter+%7C+Node.js)](https://git.io/typing-svg)
 
-*Building things that matter, from Yaoundé 🇨🇲 to the world*
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Django+%7C+React+%7C+Flutter+%7C+Node.js;Full-Stack+%26+Mobile+Developer;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1220,50:0a2240,100:00d4ff&height=120&section=header&animation=fadeIn" width="100%"/>
 
 </div>
 
----
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-## 🚀 About Me
+### 👨‍💻 About Me
 
 ```python
-class DanielTiomelaJou:
-    location      = "Yaoundé, Cameroon 🇨🇲"
-    current_focus = ["Django REST APIs", "Flutter Mobile Apps"]
-    learning      = ["Flutter internals", "Cloud architecture"]
-    passions      = ["Clean Code", "Music 🎵", "Movies 🎬", "Cooking 🍳"]
-    open_to       = "Collaborations & Freelance projects"
+class Developer:
+    name     = "Daniel TIOMELA JOU"
+    location = "Yaoundé, Cameroon 🇨🇲"
+    stack    = ["Django","React","Flutter","Node.js"]
+    learning = ["Flutter internals","Cloud arch"]
+    loves    = ["Clean Code","Music 🎵","Movies 🎬"]
 
-    def say_hello(self):
-        print("Let's build something great together! 🤝")
+    def contact(self):
+        return "Let's build something amazing 🚀"
 ```
+
+</td>
+<td align="center" width="50%">
+
+### 🚀 Quick Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danieljou&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1220&title_color=00d4ff&icon_color=00d4ff&text_color=8aa0b8&count_private=true)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+<table>
+<tr>
+<td><strong>⚛ Frontend</strong></td>
+<td>
 
-### 📱 Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![React](https://img.shields.io/badge/React-0d1220?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0d1220?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1220?style=flat-square&logo=typescript&logoColor=3b82f6)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d1220?style=flat-square&logo=tailwindcss&logoColor=22d3ee)
+![Redux](https://img.shields.io/badge/Redux-0d1220?style=flat-square&logo=redux&logoColor=a78bfa)
 
-### ⚙️ Backend
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+</td>
+</tr>
+<tr>
+<td><strong>📱 Mobile</strong></td>
+<td>
 
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-0d1220?style=flat-square&logo=flutter&logoColor=54c5f8)
+![Dart](https://img.shields.io/badge/Dart-0d1220?style=flat-square&logo=dart&logoColor=0175C2)
+![Android](https://img.shields.io/badge/Android-0d1220?style=flat-square&logo=android&logoColor=3DDC84)
+![Kotlin](https://img.shields.io/badge/Kotlin-0d1220?style=flat-square&logo=kotlin&logoColor=7c3aed)
+![React Native](https://img.shields.io/badge/React_Native-0d1220?style=flat-square&logo=react&logoColor=61DAFB)
 
-### ☁️ DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+</td>
+</tr>
+<tr>
+<td><strong>⚙️ Backend</strong></td>
+<td>
 
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Django](https://img.shields.io/badge/Django-0d1220?style=flat-square&logo=django&logoColor=44b78b)
+![Node.js](https://img.shields.io/badge/Node.js-0d1220?style=flat-square&logo=nodedotjs&logoColor=68d391)
+![Python](https://img.shields.io/badge/Python-0d1220?style=flat-square&logo=python&logoColor=f7d06a)
+![GraphQL](https://img.shields.io/badge/GraphQL-0d1220?style=flat-square&logo=graphql&logoColor=E10098)
+![Spring](https://img.shields.io/badge/Spring-0d1220?style=flat-square&logo=spring&logoColor=6DB33F)
+
+</td>
+</tr>
+<tr>
+<td><strong>☁️ Cloud & DevOps</strong></td>
+<td>
+
+![Docker](https://img.shields.io/badge/Docker-0d1220?style=flat-square&logo=docker&logoColor=2496ed)
+![AWS](https://img.shields.io/badge/AWS-0d1220?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![GCP](https://img.shields.io/badge/GCP-0d1220?style=flat-square&logo=googlecloud&logoColor=4285F4)
+![Firebase](https://img.shields.io/badge/Firebase-0d1220?style=flat-square&logo=firebase&logoColor=FFCA28)
+![Nginx](https://img.shields.io/badge/Nginx-0d1220?style=flat-square&logo=nginx&logoColor=009639)
+
+</td>
+</tr>
+<tr>
+<td><strong>🗄️ Databases</strong></td>
+<td>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1220?style=flat-square&logo=postgresql&logoColor=336791)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1220?style=flat-square&logo=mongodb&logoColor=4ea94b)
+![MySQL](https://img.shields.io/badge/MySQL-0d1220?style=flat-square&logo=mysql&logoColor=00758F)
+![Redis](https://img.shields.io/badge/Redis-0d1220?style=flat-square&logo=redis&logoColor=DC382D)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danieljou&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieljou&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=cplusplus,c%2B%2B,html,java,php,css,less,scss"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieljou&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1220&title_color=00d4ff&text_color=8aa0b8&hide=cplusplus,c%2B%2B,html,java,php,css,less,scss"/>
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=danieljou&theme=tokyonight&hide_border=true&background=0d1220&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danieljou&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=danieljou&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎯 Featured Projects
+
+| | Project | Stack | Status |
+|--|---------|-------|--------|
+| 🌐 | **[Portfolio Website](https://github.com/danieljou)** | Next.js · Tailwind · Framer | 🔵 In Progress |
+| 📱 | **[EasyFood App](https://github.com/danieljou/EasyFood)** | Flutter · Firebase · Dart | 🟠 Building |
+| ⚙️ | **[Minhdu API](https://github.com/danieljou/Minhdu)** | Django · PostgreSQL · Docker | 🟢 Live |
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=danieljou&theme=nord&column=7&no-frame=true&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## ⏱️ Weekly Dev Breakdown
-
-<!--START_SECTION:waka-->
-```text
-Python       ████████████░░░░░░░░░   45%
-JavaScript   ██████░░░░░░░░░░░░░░░   25%
-Dart         ████░░░░░░░░░░░░░░░░░   15%
-TypeScript   ███░░░░░░░░░░░░░░░░░░   10%
-Other        █░░░░░░░░░░░░░░░░░░░░    5%
-```
-<!--END_SECTION:waka-->
-
----
-
-## 🎯 Current Projects
-
-| Project | Tech | Status |
-|---------|------|--------|
-| 🌐 **Portfolio Website** | Next.js + Tailwind | 🚧 In Progress |
-| 📱 **Mobile App** | Flutter + Firebase | 🔨 Building |
-| 🔧 **REST API** | Django + PostgreSQL | ✅ Deployed |
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danieljou)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/danieljou)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danieljou)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1220?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danieljou)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1220?style=for-the-badge&logo=linkedin&logoColor=0077b5)](https://linkedin.com/in/danieljou)
+[![Twitter](https://img.shields.io/badge/Twitter-0d1220?style=for-the-badge&logo=twitter&logoColor=1DA1F2)](https://twitter.com/danieljou)
+[![Gmail](https://img.shields.io/badge/Email-0d1220?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:your@email.com)
 
 </div>
 
@@ -146,10 +156,12 @@ Other        █░░░░░░░░░░░░░░░░░░░░    
 
 <div align="center">
 
-### 💡 *"The best code is the one that solves real problems"*
+*"The best code is the one that **solves real problems**"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=danieljou&color=00d9ff&style=for-the-badge&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=danieljou&color=00d4ff&style=flat-square&label=Profile+Views)
+&nbsp;
+![](https://img.shields.io/badge/Open_to_work-00d4ff?style=flat-square)
 
-⭐ **If you like my work, don't forget to star my repositories!** ⭐
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0a2240,100:0d1220&height=80&section=footer" width="100%"/>
 
 </div>
