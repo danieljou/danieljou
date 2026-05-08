@@ -234,23 +234,3 @@ class Developer:
   </tr>
 </table>
 
-
-
-## ✍️ Blog / Articles récents
-
-<table>
-  <tr>
-    <td width="70%">
-      <ul>
-        <li><a href="#">📘 <strong>Optimiser une API Django avec Redis</strong></a> – 5 min de lecture</li>
-        <li><a href="#">⚛️ <strong>Flutter vs React Native en 2025</strong></a> – Comparatif technique</li>
-        <li><a href="#">🐳 <strong>Dockeriser une app full-stack en 10min</strong></a> – Tutoriel</li>
-      </ul>
-    </td>
-    <td align="center" width="30%">
-      <img src="https://img.shields.io/badge/Medium-0d1220?style=for-the-badge&logo=medium&logoColor=00d4ff"/>
-      <br/>
-      <img src="https://img.shields.io/badge/Dev.to-0d1220?style=for-the-badge&logo=devdotto&logoColor=00d4ff"/>
-    </td>
-  </tr>
-</table>
