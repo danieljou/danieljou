@@ -11,6 +11,8 @@
 
 <div align="center">
 
+<img width="1280" height="640" alt="github-cover-1280x640" src="https://github.com/user-attachments/assets/68f61266-d460-46e8-8541-2accd6b3ae97" />
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=700&height=60&lines=Daniel+TIOMELA+JOU;Full-Stack+%26+Mobile+Developer;Django+%7C+React+%7C+Flutter+%7C+Node.js)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1220,50:0a2240,100:00d4ff&height=120&section=header&animation=fadeIn" width="100%"/>
