@@ -1,238 +1,210 @@
-
-
 <div align="center">
 
-<img width="1280" height="640" alt="github-cover-1280x640" src="https://github.com/user-attachments/assets/68f61266-d460-46e8-8541-2accd6b3ae97" />
+<img width="1280" height="640" alt="Daniel Tiomela Jou — cover" src="https://github.com/user-attachments/assets/68f61266-d460-46e8-8541-2accd6b3ae97" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=700&height=60&lines=Daniel+TIOMELA+JOU;Full-Stack+%26+Mobile+Developer;Django+%7C+React+%7C+Flutter+%7C+Node.js)](https://git.io/typing-svg)
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1220,50:0a2240,100:00d4ff&height=120&section=header&animation=fadeIn" width="100%"/>
+# Daniel TIOMELA JOU
+### Software Engineer
+
+**Building modern software, scalable systems and reliable digital products.**
+
+`Python` · `Django` · `React` · `Next.js` · `DevOps` · `Cloud`
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-0d1220?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/danieljou)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1220?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://www.linkedin.com/in/daniel-tiomela-jou-40250b279/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1220?style=for-the-badge&logo=googlechrome&logoColor=00d4ff)](#)
+[![Email](https://img.shields.io/badge/Email-0d1220?style=for-the-badge&logo=gmail&logoColor=00d4ff)](#)
 
 </div>
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
+<br/>
 
-### 👨‍💻 About Me
+## About
 
-```python
-class Developer:
-    name     = "Daniel TIOMELA JOU"
-    location = "Yaoundé, Cameroon 🇨🇲"
-    stack    = ["Django","React","Flutter","Node.js"]
-    learning = ["Flutter internals","Cloud arch"]
-    loves    = ["Clean Code","Music 🎵","Movies 🎬"]
+I'm a Software Engineer focused on building modern web applications, scalable APIs and reliable software infrastructure.
 
-    def contact(self):
-        return "Let's build something amazing 🚀"
+I work across the stack, from frontend experiences and backend architecture to deployment and infrastructure. I enjoy turning complex problems into simple, maintainable and production-ready systems, currently building with Django, React, Flutter and Node.js.
+
+Based in Yaoundé, Cameroon.
+
+<br/>
+
+## Engineering Principles
+
+| Principle | Description |
+|---|---|
+| **Build with purpose** | Solve real problems before adding complexity. |
+| **Keep it maintainable** | Prefer clear architecture and readable code. |
+| **Automate what matters** | Reduce repetitive work through tooling and automation. |
+| **Design for reliability** | Build systems that are observable, testable and resilient. |
+| **Ship and iterate** | Good software evolves through feedback. |
+
+<br/>
+
+## What I Build
+
+**Web Applications**
+Modern interfaces and production-ready web applications with React and Next.js.
+
+**APIs & Backend Systems**
+Scalable REST APIs, authentication, business logic and data services with Django and Node.js.
+
+**Software Architecture**
+Modular systems, integrations and maintainable application architecture.
+
+**Cloud & Infrastructure**
+Containerized deployments, reverse proxies and cloud-hosted environments (Docker, Nginx, AWS, GCP, Firebase).
+
+**Mobile Applications**
+Cross-platform applications with Flutter and React Native when the product requires a mobile experience.
+
+<br/>
+
+## Core Expertise
+
+**Core**
+Python · Django · Django REST Framework · React · Next.js · JavaScript / TypeScript · PostgreSQL · Docker
+
+**Infrastructure**
+Nginx · AWS · GCP · Firebase · Docker
+
+**Additional**
+Flutter · Dart · React Native · Kotlin · Node.js · MongoDB · MySQL · Redis · GraphQL · Spring
+
+<br/>
+
+## How I Think About Systems
+
+```text
+Users
+  │
+  ▼
+Web / Mobile
+  │
+  ▼
+API Layer
+  │
+  ├── Authentication
+  ├── Business Logic
+  └── Integrations
+  │
+  ▼
+Data Layer
+  │
+  ├── PostgreSQL
+  ├── MongoDB / Redis
+  └── Storage
+  │
+  ▼
+Infrastructure
+  │
+  ├── Docker
+  ├── Nginx
+  └── Cloud (AWS / GCP / Firebase)
 ```
 
-</td>
-<td align="center" width="50%">
+*A generic representation of how I approach system design — not a specific production architecture.*
 
-### 🚀 Quick Stats
+<br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danieljou&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1220&title_color=00d4ff&icon_color=00d4ff&text_color=8aa0b8&count_private=true)
+## Selected Projects
 
-</td>
-</tr>
-</table>
+### Minhdu API
+> A backend service built around structured data and clean API design.
 
----
+**Built with:** Django · PostgreSQL · Docker
+**Focus:** API architecture · data modeling
+**Status:** Live
+**Repository:** [github.com/danieljou/Minhdu](https://github.com/danieljou/Minhdu)
 
-## 🛠️ Tech Stack
+### EasyFood App
+> A mobile application project exploring cross-platform development with Flutter.
 
-<table>
-<tr>
-<td><strong>⚛ Frontend</strong></td>
-<td>
+**Built with:** Flutter · Firebase · Dart
+**Focus:** Mobile UI · Firebase integration
+**Status:** In development
+**Repository:** [github.com/danieljou/EasyFood](https://github.com/danieljou/EasyFood)
 
-![React](https://img.shields.io/badge/React-0d1220?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0d1220?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1220?style=flat-square&logo=typescript&logoColor=3b82f6)
-![Tailwind](https://img.shields.io/badge/Tailwind-0d1220?style=flat-square&logo=tailwindcss&logoColor=22d3ee)
-![Redux](https://img.shields.io/badge/Redux-0d1220?style=flat-square&logo=redux&logoColor=a78bfa)
+### Portfolio Website
+> A personal website presenting my work and engineering profile.
 
-</td>
-</tr>
-<tr>
-<td><strong>📱 Mobile</strong></td>
-<td>
+**Built with:** Next.js · Tailwind CSS · Framer Motion
+**Focus:** Frontend architecture · personal branding
+**Status:** In progress
+**Repository:** [github.com/danieljou](https://github.com/danieljou)
 
-![Flutter](https://img.shields.io/badge/Flutter-0d1220?style=flat-square&logo=flutter&logoColor=54c5f8)
-![Dart](https://img.shields.io/badge/Dart-0d1220?style=flat-square&logo=dart&logoColor=0175C2)
-![Android](https://img.shields.io/badge/Android-0d1220?style=flat-square&logo=android&logoColor=3DDC84)
-![Kotlin](https://img.shields.io/badge/Kotlin-0d1220?style=flat-square&logo=kotlin&logoColor=7c3aed)
-![React Native](https://img.shields.io/badge/React_Native-0d1220?style=flat-square&logo=react&logoColor=61DAFB)
+<br/>
 
-</td>
-</tr>
-<tr>
-<td><strong>⚙️ Backend</strong></td>
-<td>
+## Engineering Stack
 
-![Django](https://img.shields.io/badge/Django-0d1220?style=flat-square&logo=django&logoColor=44b78b)
-![Node.js](https://img.shields.io/badge/Node.js-0d1220?style=flat-square&logo=nodedotjs&logoColor=68d391)
-![Python](https://img.shields.io/badge/Python-0d1220?style=flat-square&logo=python&logoColor=f7d06a)
-![GraphQL](https://img.shields.io/badge/GraphQL-0d1220?style=flat-square&logo=graphql&logoColor=E10098)
-![Spring](https://img.shields.io/badge/Spring-0d1220?style=flat-square&logo=spring&logoColor=6DB33F)
-
-</td>
-</tr>
-<tr>
-<td><strong>☁️ Cloud & DevOps</strong></td>
-<td>
-
-![Docker](https://img.shields.io/badge/Docker-0d1220?style=flat-square&logo=docker&logoColor=2496ed)
-![AWS](https://img.shields.io/badge/AWS-0d1220?style=flat-square&logo=amazonaws&logoColor=FF9900)
-![GCP](https://img.shields.io/badge/GCP-0d1220?style=flat-square&logo=googlecloud&logoColor=4285F4)
-![Firebase](https://img.shields.io/badge/Firebase-0d1220?style=flat-square&logo=firebase&logoColor=FFCA28)
-![Nginx](https://img.shields.io/badge/Nginx-0d1220?style=flat-square&logo=nginx&logoColor=009639)
-
-</td>
-</tr>
-<tr>
-<td><strong>🗄️ Databases</strong></td>
-<td>
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1220?style=flat-square&logo=postgresql&logoColor=336791)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1220?style=flat-square&logo=mongodb&logoColor=4ea94b)
-![MySQL](https://img.shields.io/badge/MySQL-0d1220?style=flat-square&logo=mysql&logoColor=00758F)
-![Redis](https://img.shields.io/badge/Redis-0d1220?style=flat-square&logo=redis&logoColor=DC382D)
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieljou&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1220&title_color=00d4ff&text_color=8aa0b8&hide=cplusplus,c%2B%2B,html,java,php,css,less,scss"/>
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=danieljou&theme=tokyonight&hide_border=true&background=0d1220&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff"/>
-
-</div>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=danieljou&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🎯 Featured Projects
-
-| | Project | Stack | Status |
-|--|---------|-------|--------|
-| 🌐 | **[Portfolio Website](https://github.com/danieljou)** | Next.js · Tailwind · Framer | 🔵 In Progress |
-| 📱 | **[EasyFood App](https://github.com/danieljou/EasyFood)** | Flutter · Firebase · Dart | 🟠 Building |
-| ⚙️ | **[Minhdu API](https://github.com/danieljou/Minhdu)** | Django · PostgreSQL · Docker | 🟢 Live |
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-0d1220?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danieljou)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1220?style=for-the-badge&logo=linkedin&logoColor=0077b5)](https://linkedin.com/in/danieljou)
-[![Twitter](https://img.shields.io/badge/Twitter-0d1220?style=for-the-badge&logo=twitter&logoColor=1DA1F2)](https://twitter.com/danieljou)
-[![Gmail](https://img.shields.io/badge/Email-0d1220?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:your@email.com)
-
-</div>
-
----
-
-<div align="center">
-
-*"The best code is the one that **solves real problems**"*
-
-![](https://komarev.com/ghpvc/?username=danieljou&color=00d4ff&style=flat-square&label=Profile+Views)
-&nbsp;
-![](https://img.shields.io/badge/Open_to_work-00d4ff?style=flat-square)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0a2240,100:0d1220&height=80&section=footer" width="100%"/>
-
-</div>
-
-
-
-## 📜 Certifications & formations
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Scrum_Fundamental_Certified-00d4ff?style=for-the-badge&logo=scrumalliance&logoColor=black"/>
-      <br/>
-      <strong>Scrum Fundamentals Certified (SFCTM)</strong>
-      <br/>
-      Scrum Study Enablements • sept. 2025
-      <br/>
-      <img src="https://img.shields.io/badge/Agile-0d1220?style=flat-square&logo=scrumalliance"/>
-      <img src="https://img.shields.io/badge/Scrum-0d1220?style=flat-square"/>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Software_Architecture-00d4ff?style=for-the-badge&logo=udemy&logoColor=black"/>
-      <br/>
-      <strong>Software Architecture & Code Design in OOP</strong>
-      <br/>
-      Udemy • juin 2025
-      <br/>
-      <img src="https://img.shields.io/badge/OOP-0d1220?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Cloud-0d1220?style=flat-square"/>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Master_Django-00d4ff?style=for-the-badge&logo=django&logoColor=black"/>
-      <br/>
-      <strong>Master Django Web Development</strong>
-      <br/>
-      Alison • févr. 2025
-      <br/>
-      <img src="https://img.shields.io/badge/Python-0d1220?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Django-0d1220?style=flat-square"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/React_for_Devs-00d4ff?style=for-the-badge&logo=react&logoColor=black"/>
-      <br/>
-      <strong>Intro to JavaScript for React Developers</strong>
-      <br/>
-      CodeSignal • févr. 2025
-      <br/>
-      <img src="https://img.shields.io/badge/JavaScript-0d1220?style=flat-square"/>
-      <img src="https://img.shields.io/badge/React.js-0d1220?style=flat-square"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Node.js_API_RESTful-00d4ff?style=for-the-badge&logo=nodedotjs&logoColor=black"/>
-      <br/>
-      <strong>Node.js : Fondamentaux d'API RESTful modernes (2025)</strong>
-      <br/>
-      Udemy • avr. 2025
-      <br/>
-      <img src="https://img.shields.io/badge/Node.js-0d1220?style=flat-square"/>
-      <img src="https://img.shields.io/badge/JavaScript-0d1220?style=flat-square"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Voir_toutes_mes_certs-0d1220?style=for-the-badge&logo=linkedin&logoColor=00d4ff"/>
-      <br/>
-      <a href="https://www.linkedin.com/in/daniel-tiomela-jou-40250b279/details/certifications/">
-        🔗 Toutes mes certifications LinkedIn
-      </a>
-    </td>
-  </tr>
-</table>
-<div align="center">
-
+```text
+Frontend       React · Next.js · TypeScript · Tailwind CSS
+Backend        Python · Django · Django REST Framework · Node.js
+Data           PostgreSQL · MongoDB · Redis
+Infrastructure Docker · Nginx · AWS · GCP · Firebase
+Mobile         Flutter · React Native
 ```
-██████╗  █████╗ ███╗   ██╗██╗███████╗██╗
-██╔══██╗██╔══██╗████╗  ██║██║██╔════╝██║
-██║  ██║███████║██╔██╗ ██║██║█████╗  ██║
-██║  ██║██╔══██║██║╚██╗██║██║██╔══╝  ██║
-██████╔╝██║  ██║██║ ╚████║██║███████╗███████╗
-╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚══════╝╚══════╝
-```
+
+<br/>
+
+## Certifications
+
+| Certification | Provider | Date |
+|---|---|---|
+| Scrum Fundamentals Certified (SFCTM) | ScrumStudy | Sept. 2025 |
+| Software Architecture & Code Design in OOP | Udemy | June 2025 |
+| Master Django Web Development | Alison | Feb. 2025 |
+| Intro to JavaScript for React Developers | CodeSignal | Feb. 2025 |
+| Node.js: REST API Fundamentals | Udemy | Apr. 2025 |
+
+**[View all certifications on LinkedIn](https://www.linkedin.com/in/daniel-tiomela-jou-40250b279/details/certifications/)**
+
+<br/>
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="160em" alt="Daniel Tiomela's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=danieljou&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1220&title_color=00d4ff&icon_color=00d4ff&text_color=8aa0b8&count_private=true"/>
+<img height="160em" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieljou&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1220&title_color=00d4ff&text_color=8aa0b8&hide=cplusplus,c%2B%2B,html,java,php,css,less,scss"/>
+
+</div>
+
+<br/>
+
+## Currently Exploring
+
+- Software architecture and system design
+- Cloud infrastructure
+- DevOps automation
+- Scalable backend systems
+- Modern frontend architecture
+
+<br/>
+
+## Let's Build Something
+
+I'm always interested in interesting engineering problems, product ideas and opportunities to build useful software.
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1220?style=for-the-badge&logo=googlechrome&logoColor=00d4ff)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1220?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://www.linkedin.com/in/daniel-tiomela-jou-40250b279/)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1220?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/danieljou)
+[![Email](https://img.shields.io/badge/Email-0d1220?style=for-the-badge&logo=gmail&logoColor=00d4ff)](#)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+**Daniel Tiomela** — Software Engineer
+Building software. Engineering solutions.
+
+</div>
